@@ -1,4 +1,5 @@
 import random 
+#изменения
 def search_number():
 
 
